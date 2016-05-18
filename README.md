@@ -32,7 +32,7 @@ The general idea behind the UI for this project will be to make it as simple and
 3. Build And Run<br />
 
 <b>Contribution Guidelines:</b><br />
-Coming Soon!
+Feel free to download and modify this project; However, commit only to your own branch and not master. 
 
 <b>Bugs/TODO List:</b><br />
 N/A
@@ -46,4 +46,9 @@ I believe if this app did exist, students will be able to do much better at scho
 
 
 <b>License:</b><br />
-N/A
+The MIT License (MIT)
+ Copyright (c) 2016 Saud Alsobaie
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
