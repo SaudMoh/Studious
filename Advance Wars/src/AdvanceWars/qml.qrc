@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>myButton.qml</file>
+        <file>Board.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>../../fonts/Minecrafter_3.ttf</file>
+        <file>HomeScreen.qml</file>
+        <file>NewGamePage.qml</file>
+        <file>LoadGamePage.qml</file>
+        <file>../../img/AdvancedLogoLoadGame.png</file>
+        <file>../../img/AdvancedLogoNewGame.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../songs/01-advance-wars-1-opening.mp3</file>
+    </qresource>
+</RCC>
