@@ -3,5 +3,9 @@
         <file>../../img/background.png</file>
         <file>../../img/AdvancedLogoBG.png</file>
         <file>../../img/AdvancedLogoSettings.png</file>
+        <file>../../img/BlueTroops.png</file>
+        <file>../../img/GreenTroops.png</file>
+        <file>../../img/RedTroops.png</file>
+        <file>../../img/YellowTroops.png</file>
     </qresource>
 </RCC>
